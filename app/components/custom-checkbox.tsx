@@ -1,8 +1,6 @@
 "use client";
 
 import React from "react";
-
-// Definisikan tipe props jika menggunakan TypeScript, atau biarkan seperti ini untuk JS/TS biasa
 const CustomCheckbox = ({
   disabled = false,
   checked = false,
