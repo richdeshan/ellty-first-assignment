@@ -1,5 +1,3 @@
-// data.ts
-
 export interface PageItem {
   id: string;
   label: string;
