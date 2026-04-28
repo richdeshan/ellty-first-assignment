@@ -20,7 +20,7 @@ const CustomCheckbox = ({
         className="
           peer
           absolute
-          top-[6px] left-[6px]
+          top-[6.5px] left-[6px]
           w-[23px] h-[23px]
           appearance-none
           cursor-pointer
